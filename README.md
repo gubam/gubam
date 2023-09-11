@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=Welcome&fontSize=90&desc=gubam's github profile" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=_hexcode&height=300&section=header&text=Welcome&fontSize=90&desc=gubam's github profile&fontSize=50" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gubam&show_icons=true&theme=radical)
 
