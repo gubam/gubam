@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=6E6E6E&height=200&section=header&text=Gubam's%20Profile&fontSize=80&fontColor=FAFAFA"/>
-
   ### 💻 Tech Stacks 💻
 used or studying...😓
 <br>
@@ -15,5 +13,9 @@ used or studying...😓
 <br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ROS&logoColor=FFFFFF"/></a>
 <br>
+<br>
+Major : Electronic Engineering 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gubam&theme=dark&show_icons=true)
+Interests : Robotics, Autonomous Driving, CV
+
+열심히 살겠습니다😊
