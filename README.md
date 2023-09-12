@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=6E6E6E&height=300&section=header&text=Gubam's%Profile&fontSize=80"/>
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=6E6E6E&height=200&section=header&text=Gubam's%20Profile&fontSize=80&fontColor=FAFAFA"/>
 
   ### 💻 Tech Stacks 💻
 used or studying...😓
