@@ -1,3 +1,3 @@
 Major : Electronic Engineering 
 
-Interests : Robotics, CV
+Interests : Robotics, Embbeded System, CV
